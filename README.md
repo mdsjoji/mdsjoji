@@ -1,4 +1,4 @@
-Estutante iniciante em html,css e JavaScript!            
+Estudante iniciante em html,css e JavaScript!            
 <!--
 **mdsjoji/mdsjoji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
